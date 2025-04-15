@@ -1,5 +1,5 @@
 <h1 align="center">Olá! Eu sou o Emanuel Pinheiro um dev fonte-end👋</h1>
-<>Atualmente a procuara de um trabalho como programador</2>
+
 
 <p align="center">
 Desenvolvedor apaixonado por tecnologia,  criação de sites dinamicos, responsivos e soluções web interativas.
