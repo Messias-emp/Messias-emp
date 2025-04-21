@@ -1,11 +1,10 @@
-<h1 align="center">Olá! Eu sou o Emanuel Pinheiro, um dev front-end: javascript, CSS, HTML5, node.js e react...
+<h1 align="center">Olá! Eu sou o Emanuel Pinheiro, um dev front-end: JavaScript, HTML, CSS, node.js, React, vite, etc...
 ---
 
 ### 🧠 Sobre mim...no dia adia...
-- 💻 Aprendendo e desenvolvendo web sites com **JavaScript, HTML, CSS, node.js, React**
-- 🎮 Explorando o mundo dos **jogos 3D com Three.js**
-- 🔭 Trabalhando em projetos pessoais e um portfólio dinâmico
-- 📚 Sempre buscando aprender mais sobre desenvolvimento web.
+- 💻 Aprendendo e desenvolvendo web sites responsivos com **JavaScript, HTML, CSS, node.js, React, vite...etc**
+- 🔭 Trabalhando em projetos pessoais e um portfólio com web site dinâmico.
+- 🎮 Explorando o mundo dos **jogos 3D com Three.js**e web sites 3D e interativos.
 - 
 
 ---
