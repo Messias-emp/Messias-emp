@@ -17,7 +17,7 @@ disponibilidade  para trabalhar em Home Office regime CLT e com projetos freelan
 |--------|-----------|------|
 | 🎮 FPS Game 3D | Um jogo em primeira pessoa usando Three.js | [Ver no GitHub](https://github.com/Messias-emp/fps-game) |
 | 🌐 Portfólio Pessoal | Um site moderno para exibir meus projetos | [Ver no GitHub](https://github.com/Messias-emp/portfolio) |
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Messias-emp&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 ---
 
 ### 📫 Como me encontrar
