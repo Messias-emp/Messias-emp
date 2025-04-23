@@ -2,8 +2,8 @@
 ---
 
 ### 🧠 Sobre mim...
-Atualmente no dia adia...em busca de oportunidades de trabalho como programador dev front-end ...com
-disponibilidade  para trabalhas em regime CLT e com projetos freelancer ...em transição de carreira...
+Atualmente no dia adia...em busca de oportunidades de trabalho como programador dev front-end e com
+disponibilidade  para trabalhar em regime CLT e com projetos freelancer ...estou tb em transição de carreira...
 - 💻 Aprendendo e desenvolvendo web sites responsivos com **JavaScript, HTML, CSS, node.js, React, vite...etc**
 - 🔭 Trabalhando em projetos pessoais e um portfólio com web site dinâmico.
 - 🎮 Explorando o mundo dos **jogos 3D com Three.js**e web sites 3D e interativos.
