@@ -5,7 +5,7 @@
 Atualmente no dia a dia...em busca de oportunidades de trabalho como programador dev front-end e com
 disponibilidade para trabalhar em Home Office regime CLT e com projetos freelancer ...estou tb em transição de carreira...
 
-- 💻 Aprendendo e desenvolvendo web sites responsivos com **JavaScript, HTML, CSS, node.js, React, vite...etc**
+- 💻 Aprendendo e desenvolvendo web sites responsivos com **Javascript, HTML, CSS, node.js, React, vite...etc**
 - 🔭 Trabalhando em projetos pessoais e um portfólio com web site dinâmico.
 - 🎮 Explorando o mundo dos **jogos 3D com Three.js**e web sites 3D e interativos.
 - ***
