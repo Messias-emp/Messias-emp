@@ -7,7 +7,7 @@ disponibilidade para trabalhar em Home Office regime CLT e com projetos freelanc
 
 - 💻 Aprendendo e desenvolvendo web sites responsivos com **Javascript, HTML, CSS, node.js, React, vite...etc**
 - 🔭 Trabalhando em projetos pessoais e um portfólio com web site dinâmico.
-- 🎮 Explorando o mundo dos **jogos 3D com Three.js**e web sites 3D e interativos.
+- 🎮 Explorando o mundo dos **jogos 3D com Three.js** e web sites 3D e interativos.
 - ***
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Messias-emp&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
