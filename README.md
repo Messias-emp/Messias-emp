@@ -1,24 +1,32 @@
-<h1 align="center">Olá! Eu sou o Emanuel Pinheiro</h1>
-<h3 align="center">💻 Desenvolvedor Front-End: JavaScript, HTML, CSS, Node.js, React, Vite...</h3>
+<h1 align="center">👋 Olá, eu sou Emanuel Pinheiro</h1>
+<h3 align="center">💻 Desenvolvedor Front-End | JavaScript • HTML • CSS • React • Node.js • Vite</h3>
+
+<p align="center">
+  <a href="https://github.com/Messias-emp"><img src="https://img.shields.io/github/followers/Messias-emp?label=Seguidores&style=social" alt="GitHub"></a>
+  <a href="https://linkedin.com/in/seu-usuario"><img src="https://img.shields.io/badge/LinkedIn-Emanuel%20Pinheiro-blue?logo=linkedin&style=flat-square" alt="LinkedIn"></a>
+  <a href="mailto:empinheiro3.0@gmail.com"><img src="https://img.shields.io/badge/Email-empinheiro3.0@gmail.com-red?logo=gmail&style=flat-square" alt="Email"></a>
+  <a href="https://emanuel-pinheiro.netlify.app"><img src="https://img.shields.io/badge/Portfólio-emanuel--pinheiro.netlify.app-green?style=flat-square" alt="Site pessoal"></a>
+</p>
 
 ---
 
-### 🧠 Sobre mim
+### 🧠 Sobre Mim
 
-Atualmente, estou em transição de carreira e buscando oportunidades como **desenvolvedor front-end**, com disponibilidade para atuar **remotamente (CLT ou freelancer)**.
+🎯 Estou em transição de carreira e buscando oportunidades como **desenvolvedor front-end** com:
 
-- 🚀 Aprendendo e desenvolvendo sites responsivos com **HTML, CSS, JS, React, Node.js e Vite**  
-- 🔧 Criando projetos pessoais e um portfólio dinâmico  
-- 🎮 Explorando o universo dos **jogos 3D com Three.js** e web interativa  
+- 💼 Disponibilidade para atuar em **home office (CLT ou freelancer)**
+- 🌱 Aprendizado contínuo com **projetos práticos e desafiadores**
+- 🔧 Desenvolvimento de **interfaces modernas, responsivas e interativas**
+- 🎮 Estudo de **jogos e experiências 3D com Three.js**
 
 ---
 
 ### 🚀 Projetos em Destaque
 
-| Projeto              | Descrição                                  | Link                                                      |
-| -------------------- | ------------------------------------------ | --------------------------------------------------------- |
-| 🎮 FPS Game 3D       | Jogo em primeira pessoa com Three.js       | [Ver no GitHub](https://github.com/Messias-emp/fps-game)  |
-| 🌐 Portfólio Pessoal | Site moderno para exibir meus projetos     | [Ver no GitHub](https://github.com/Messias-emp/portfolio) |
+| 💡 Projeto             | 📄 Descrição                                | 🔗 Link                                                                 |
+|------------------------|---------------------------------------------|------------------------------------------------------------------------|
+| 🎮 FPS Game 3D         | Jogo 3D em primeira pessoa com Three.js     | [Ver no GitHub](https://github.com/Messias-emp/fps-game)              |
+| 🌐 Portfólio Pessoal   | Site moderno para mostrar meus projetos     | [Ver no GitHub](https://github.com/Messias-emp/portfolio)             |
 
 ---
 
@@ -26,30 +34,28 @@ Atualmente, estou em transição de carreira e buscando oportunidades como **des
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Messias-emp&show_icons=true&theme=tokyonight&bg_color=000000&title_color=E94D5F&text_color=ffffff&icon_color=30A3DC&border_color=30A3DC)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Messias-emp&layout=compact&theme=tokyonight&bg_color=000000&title_color=E94D5F&text_color=ffffff&border_color=30A3DC)
+<img src="https://github-readme-stats.vercel.app/api?username=Messias-emp&show_icons=true&theme=tokyonight&bg_color=000000&title_color=E94D5F&text_color=ffffff&icon_color=30A3DC&border_color=30A3DC" width="47%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Messias-emp&layout=compact&theme=tokyonight&bg_color=000000&title_color=E94D5F&text_color=ffffff&border_color=30A3DC" width="47%" />
 
 </div>
 
 ---
 
-### 📫 Como me encontrar
+### 📬 Contato
 
-- GitHub: [github.com/Messias-emp](https://github.com/Messias-emp)  
-- LinkedIn: [linkedin.com/in/seu-usuario](https://linkedin.com/in/seu-usuario) <!-- atualize seu user -->
-- Email: empinheiro3.0@gmail.com  
-- 🌍 Portfólio: [emanuel-pinheiro.netlify.app](https://emanuel-pinheiro.netlify.app)
+- 📧 Email: [empinheiro3.0@gmail.com](mailto:empinheiro3.0@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/seu-usuario](https://linkedin.com/in/seu-usuario)
+- 🌐 Portfólio: [emanuel-pinheiro.netlify.app](https://emanuel-pinheiro.netlify.app)
 
 ---
 
 ### ⚡ Curiosidades
 
-- Amo criar experiências **interativas e responsivas**!  
-- Curioso por gráficos em tempo real e efeitos visuais para a web  
-- Acredito que **aprender na prática é o melhor caminho** 🚀  
+- 🎯 Gosto de criar experiências **imersivas** e **dinâmicas**
+- 🎨 Apaixonado por **UI/UX e design responsivo**
+- 🔍 Acredito que **“aprender fazendo”** é o melhor caminho para crescer
 
 ---
 
-<p align="center">Obrigado por visitar meu perfil! 🙌</p>
+<p align="center">✨ Obrigado por visitar meu perfil! ✨</p>
 
