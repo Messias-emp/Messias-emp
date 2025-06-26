@@ -44,7 +44,7 @@
 ### 📬 Contato
 
 - 📧 Email: [empinheiro3.0@gmail.com](mailto:empinheiro3.0@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/seu-usuario](www.linkedin.com/in/emanuel-pinheiro)
+- 💼 LinkedIn: [www.linkedin.com/in/emanuel-pinheiro](www.linkedin.com/in/emanuel-pinheiro)
 - 🌐 Portfólio: [emanuel-pinheiro.netlify.app](https://emanuel-pinheiro.netlify.app)
 
 ---
