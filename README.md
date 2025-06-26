@@ -1,9 +1,9 @@
 <h1 align="center">👋 Olá, eu sou Emanuel Pinheiro</h1>
-<h3 align="center">💻 Desenvolvedor Front-End | JavaScript • HTML • CSS •  •Java •React • Node.js • Vite</h3>
+<h3 align="center">💻 Desenvolvedor Front-End | JavaScript • HTML • CSS •Java • React • Node.js • Vite</h3>
 
 <p align="center">
   <a href="https://github.com/Messias-emp"><img src="https://img.shields.io/github/followers/Messias-emp?label=Seguidores&style=social" alt="GitHub"></a>
-  <a href="https://linkedin.com/in/seu-usuario"><img src="https://img.shields.io/badge/LinkedIn-Emanuel%20Pinheiro-blue?logo=linkedin&style=flat-square" alt="LinkedIn"></a>
+  <a href="https://linkedin.com/in/emanuel-pinheiro-dev"><img src="https://img.shields.io/badge/LinkedIn-Emanuel%20Pinheiro-blue?logo=linkedin&style=flat-square" alt="LinkedIn"></a>
   <a href="mailto:empinheiro3.0@gmail.com"><img src="https://img.shields.io/badge/Email-empinheiro3.0@gmail.com-red?logo=gmail&style=flat-square" alt="Email"></a>
   <a href="https://emanuel-pinheiro.netlify.app"><img src="https://img.shields.io/badge/Portfólio-emanuel--pinheiro.netlify.app-green?style=flat-square" alt="Site pessoal"></a>
 </p>
@@ -34,8 +34,8 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Messias-emp&show_icons=true&theme=tokyonight&bg_color=000000&title_color=E94D5F&text_color=ffffff&icon_color=30A3DC&border_color=30A3DC" width="47%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Messias-emp&layout=compact&theme=tokyonight&bg_color=000000&title_color=E94D5F&text_color=ffffff&border_color=30A3DC" width="47%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Messias-emp&show_icons=true&theme=radical" width="47%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Messias-emp&layout=compact&theme=radical" width="47%" />
 
 </div>
 
@@ -44,7 +44,7 @@
 ### 📬 Contato
 
 - 📧 Email: [empinheiro3.0@gmail.com](mailto:empinheiro3.0@gmail.com)
-- 💼 LinkedIn: [www.linkedin.com/in/emanuel-pinheiro](www.linkedin.com/in/emanuel-pinheiro)
+- 💼 LinkedIn: [linkedin.com/in/emanuel-pinheiro-dev](https://linkedin.com/in/emanuel-pinheiro-dev)
 - 🌐 Portfólio: [emanuel-pinheiro.netlify.app](https://emanuel-pinheiro.netlify.app)
 
 ---
@@ -58,4 +58,5 @@
 ---
 
 <p align="center">✨ Obrigado por visitar meu perfil! ✨</p>
+
 
