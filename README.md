@@ -17,7 +17,6 @@
 - 💼 Disponibilidade para atuar em **home office (CLT ou freelancer)**
 - 🌱 Aprendizado contínuo com **projetos práticos e desafiadores**
 - 🔧 Desenvolvimento de **interfaces modernas, responsivas e interativas**
-- 🎮 Estudo de **jogos e experiências 3D com Three.js**
 
 ---
 
