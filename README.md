@@ -42,7 +42,7 @@
 
 ### 📬 Contato
 
-- 📧 Email: [empinheiro3.0@gmail.com](mailto:empinheiro3.0@gmail.com)
+- 📧 Email: [empinheiro3.0@gmail.com](mailto:devemanuelpinheiro@gmail.com)
 - 💼 LinkedIn: [https://www.linkedin.com/in/emanuel-pinheiro/]
 - 🌐 Portfólio:(https://emanuelpinheiro.netlify.app/)
 
