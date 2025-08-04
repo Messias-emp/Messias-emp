@@ -3,9 +3,9 @@
 
 <p align="center">
   <a href="https://github.com/Messias-emp"><img src="https://img.shields.io/github/followers/Messias-emp?label=Seguidores&style=social" alt="GitHub"></a>
-  <a href="https://linkedin.com/in/emanuel-pinheiro-dev"><img src="https://img.shields.io/badge/LinkedIn-Emanuel%20Pinheiro-blue?logo=linkedin&style=flat-square" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/emppinheiro/"><img src="https://img.shields.io/badge/LinkedIn-Emanuel%20Pinheiro-blue?logo=linkedin&style=flat-square" alt="LinkedIn"></a>
   <a href="mailto:empinheiro3.0@gmail.com"><img src="https://img.shields.io/badge/Email-empinheiro3.0@gmail.com-red?logo=gmail&style=flat-square" alt="Email"></a>
-  <a href="https://www.linkedin.com/in/emanuel-pinheiro/><img src="https://img.shields.io/badge/Portfólio-emanuel--pinheiro.netlify.app-green?style=flat-square" alt="Site pessoal"></a>
+  <a href=https://www.linkedin.com/in/emppinheiro/><img src="https://img.shields.io/badge/Portfólio-emanuel--pinheiro.netlify.app-green?style=flat-square" alt="Site pessoal"></a>
 </p>
 
 ---
@@ -43,7 +43,7 @@
 ### 📬 Contato
 
 - 📧 Email: [empinheiro3.0@gmail.com](mailto:devemanuelpinheiro@gmail.com)
-- 💼 LinkedIn: [https://www.linkedin.com/in/emanuel-pinheiro/]
+- 💼 LinkedIn: [https://www.linkedin.com/in/emppinheiro/]
 - 🌐 Portfólio:(https://emanuelpinheiro.netlify.app/)
 
 ---
