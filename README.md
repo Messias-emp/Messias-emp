@@ -23,9 +23,8 @@
 ### 🚀 Projetos em Destaque
 
 | 💡 Projeto             | 📄 Descrição                                | 🔗 Link                                                                 |
-|------------------------|---------------------------------------------|------------------------------------------------------------------------|
-| 🎮 FPS Game 3D         | Jogo 3D em primeira pessoa com Three.js     | [Ver no GitHub](https://github.com/Messias-emp/fps-game)              |
-| 🌐 Portfólio Pessoal   | Site moderno para mostrar meus projetos     | [Ver no GitHub](https://github.com/Messias-emp/portfolio)             |
+|------------------------|---------------------------------------------|------------------------------------------------------------------------|         |
+| 🌐 Portfólio Pessoal   | Site moderno para mostrar meus projetos     | [Ver no GitHub](https://emanuelpinheiro.netlify.app/)             |
 
 ---
 
