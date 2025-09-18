@@ -1,5 +1,5 @@
 <h1 align="center">👋 Olá, eu sou Emanuel Pinheiro</h1>
-<h3 align="center">💻 Desenvolvedor Front-End | JavaScript • HTML • CSS •Java • React • Node.js • Vite</h3>
+<h3 align="center">💻 Desenvolvedor Front-End | JavaScript • HTML • CSS •Java • React • Node.js </h3>
 
 <p align="center">
   <a href="https://github.com/Messias-emp"><img src="https://img.shields.io/github/followers/Messias-emp?label=Seguidores&style=social" alt="GitHub"></a>
