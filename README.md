@@ -1,5 +1,5 @@
 <h1 align="center">👋 Olá! Eu sou <strong>Emanuel Pinheiro</strong></h1>
-<h3 align="center">💻 Desenvolvedor Front-End | JavaScript • React • HTML • CSS • Node.js • Java</h3>
+<h3 align="center">💻 Desenvolvedor Front-End | JavaScript • HTML • CSS • React • React Native •Node.js • Angular •Java com Spring Boot + APIS REST FULL</h3>
 
 <p align="center">
   <a href="https://github.com/Messias-emp">
