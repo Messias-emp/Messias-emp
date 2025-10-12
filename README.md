@@ -32,7 +32,7 @@ Sou um **desenvolvedor front-end** apaixonado por tecnologia e em **transição 
 
 | 💡 Projeto | 📄 Descrição | 🔗 Link |
 |-------------|--------------|---------|
-| 🌐 **Portfólio Pessoal** | Site moderno e responsivo com estilo Matrix, exibindo meus projetos e contatos. | [🔗 Acessar](https://emanuel-pinheiro.netlify.app/) |
+| 🌐 **Portfólio Pessoal** | Site moderno e responsivo com estilo Matrix, exibindo meus projetos e contatos. | [🔗 Acessar](https://emanuelpinheiro.netlify.app/) |
 
 *(Mais projetos disponíveis em meu repositório do [GitHub](https://github.com/Messias-emp?tab=repositories))*
 
