@@ -16,17 +16,6 @@
   </a>
 </p>
 
----
-
-### 🧠 Sobre Mim
-
-Sou um **desenvolvedor front-end** apaixonado por tecnologia e em **transição de carreira**, com foco em construir **interfaces modernas, responsivas e interativas**.
-
-- 💼 Aberto a oportunidades **remotas** (CLT ou freelancer)  
-- 🚀 Experiência prática com **JavaScript, React, Node.js e integração de APIs**  
-- 🎯 Sempre buscando evoluir com **projetos desafiadores e colaborativos**  
-
----
 
 ### 🚀 Projetos em Destaque
 
@@ -53,7 +42,7 @@ Sou um **desenvolvedor front-end** apaixonado por tecnologia e em **transição 
 
 📧 **Email:** [devemanuelpinheiro@gmail.com](mailto:devemanuelpinheiro@gmail.com)  
 💼 **LinkedIn:** [linkedin.com/in/emppinheiro](https://www.linkedin.com/in/emppinheiro/)  
-🌐 **Portfólio:** [emanuel-pinheiro.netlify.app](https://emanuel-pinheiro.netlify.app)
+🌐 **Portfólio:** [emanuelpinheiro.netlify.app](https://emanuel-pinheiro.netlify.app)
 
 ---
 
