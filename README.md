@@ -11,8 +11,8 @@
   <a href="mailto:devemanuelpinheiro@gmail.com">
     <img src="https://img.shields.io/badge/Email-devemanuelpinheiro%40gmail.com-red?logo=gmail&style=flat-square" alt="Email">
   </a>
-  <a href="https://emanuel-pinheiro.netlify.app">
-    <img src="https://img.shields.io/badge/Portfólio-emanuel--pinheiro.netlify.app-green?style=flat-square" alt="Portfólio">
+  <a href="https://emanuelpinheiro.netlify.app">
+    <img src="https://img.shields.io/badge/Portfólio-emanuelpinheiro.netlify.app-green?style=flat-square" alt="Portfólio">
   </a>
 </p>
 
