@@ -1,4 +1,4 @@
-<h1 align="center">👋 <strong>Emanuel Pinheiro | Front-End | Back-End</strong></h1>
+⁷<h1 align="center">👋 <strong>Emanuel Pinheiro | Front-End | Back-End</strong></h1>
 <h3 align="center">💻 Desenvolvedor Front-End e Back-End </h3>
 
 <p align="center">
@@ -42,7 +42,7 @@
 
 📧 **Email:** [devemanuelpinheiro@gmail.com](mailto:devemanuelpinheiro@gmail.com)  
 💼 **LinkedIn:** [linkedin.com/in/emppinheiro](https://www.linkedin.com/in/emppinheiro/)  
-🌐 **Portfólio:** [emanuelpinheiro.netlify.app](https://emanuel-pinheiro.netlify.app)
+🌐 **Portfólio:** [emanuelpinheiro.netlify.app](https://emanuelpinheiroportfo.netlify.app/)
 
 ---
 
