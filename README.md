@@ -1,4 +1,4 @@
-<h1 align="center">👋 <strong>Emanuel Pinheiro | Front-End</strong></h1>
+<h1 align="center">👋 <strong>Emanuel Pinheiro | Front-End | Back-End</strong></h1>
 <h3 align="center">💻 Desenvolvedor Front-End </h3>
 
 <p align="center">
