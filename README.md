@@ -42,7 +42,7 @@
 
 📧 **Email:** [devemanuelpinheiro@gmail.com](mailto:devemanuelpinheiro@gmail.com)  
 💼 **LinkedIn:** [linkedin.com/in/emppinheiro](https://www.linkedin.com/in/emppinheiro/)  
-🌐 **Portfólio:** [emanuelpinheiro.netlify.app](https://emanuelpinheiroportfo.netlify.app/)
+🌐 **Portfólio:** [emanuelpinheiroportfo.netlify.app/](https://emanuelpinheiroportfo.netlify.app/)
 
 ---
 
