@@ -1,5 +1,5 @@
-⁷<h1 align="center">👋 <strong>Emanuel Pinheiro </strong></h1>
-<h3 align="center">💻 Desenvolvedor Front-End e Back-End </h3>
+⁷<h1 align="center"> <strong>Emanuel Pinheiro </strong></h1>
+<h3 align="center">💻 Desenvolvedor Front-End / Back-End </h3>
 
 <p align="center">
   <a href="https://github.com/Messias-emp">
@@ -43,7 +43,6 @@
 📧 **Email:** [devemanuelpinheiro@gmail.com](mailto:devemanuelpinheiro@gmail.com)  
 💼 **LinkedIn:** [linkedin.com/in/emppinheiro](https://www.linkedin.com/in/emppinheiro/)  
 🌐 **Portfólio:** [emanuelpinheiroportfo.netlify.app/](https://emanuelpinheiroportfo.netlify.app/)
-
 ---
 
 ### ⚡ Curiosidades
