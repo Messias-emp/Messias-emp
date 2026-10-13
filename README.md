@@ -1,5 +1,6 @@
-⁷<h1 align="center"> <strong>Emanuel Pinheiro </strong></h1>
-<h3 align="center">💻 Desenvolvedor Front-End / Back-End </h3>
+# 👋 Emanuel Pinheiro
+
+<h3 align="center">💻 Desenvolvedor Front-End / Back-End</h3>
 
 <p align="center">
   <a href="https://github.com/Messias-emp">
@@ -11,24 +12,55 @@
   <a href="mailto:devemanuelpinheiro@gmail.com">
     <img src="https://img.shields.io/badge/Email-devemanuelpinheiro%40gmail.com-red?logo=gmail&style=flat-square" alt="Email">
   </a>
-  <a href="
-https://emanuelpinheiroportfo.netlify.app">
+  <a href="https://emanuelpinheiroportfo.netlify.app">
     <img src="https://img.shields.io/badge/Portfólio-https://emanuelpinheiroportfo.netlify.app/-green?style=flat-square" alt="Portfólio">
   </a>
 </p>
 
+---
 
-### 🚀 Projetos em Destaque
+## 🚀 Sobre Mim
+
+Desenvolvedor full-stack apaixonado por criar soluções digitais modernas, escaláveis e orientadas a resultados. Tenho foco em **boas práticas de código, arquitetura limpa e experiência do usuário**, sempre buscando entregar software de alta qualidade que resolva problemas reais.
+
+---
+
+## 🧠 Tecnologias
+
+### Front-End
+- **Angular** (Standalone Components, Signals, RxJS)
+- **TypeScript**
+- **HTML5 / CSS3 / SCSS (Sass)**
+- **Tailwind CSS / Material Design (Angular Material)**
+
+### Back-End
+- **Java 17**
+- **Spring Boot 3**
+- **Spring Security 6** (JWT, autenticação stateless)
+- **Spring Data JPA / Hibernate**
+- **PostgreSQL**
+
+### Ferramentas & Infraestrutura
+- **Docker** (containerização)
+- **Git / GitHub**
+- **Render** e **Vercel** (CI/CD e hospedagem)
+- **Netlify**
+
+---
+
+## 🏗️ Projetos em Destaque
 
 | 💡 Projeto | 📄 Descrição | 🔗 Link |
 |-------------|--------------|---------|
-| 🌐 **Portfólio Pessoal** | Site moderno e responsivo com estilo Matrix, exibindo meus projetos e contatos. | [🔗 Acessar](https://emanuelpinheiroportfo.netlify.app/) |
+| 🌐 **Portfólio Pessoal** | Site moderno e responsivo com temas Dark/Light/Matrix, exibindo projetos, habilidades e contatos. | [🔗 Acessar](https://emanuelpinheiroportfo.netlify.app/) |
+| 🛒 **E-Commerce API** | Backend completo em Spring Boot com autenticação JWT, produtos, pedidos e persistência em PostgreSQL. | [🔗 GitHub](https://github.com/Messias-emp/backend-ecommerce-render) |
+| 🛍️ **E-Commerce Frontend** | Loja virtual em Angular com rotas protegidas, carrinho de compras reativo e integração total com a API. | [🔗 GitHub](https://github.com/Messias-emp/frontend-angular) |
 
 *(Mais projetos disponíveis em meu repositório do [GitHub](https://github.com/Messias-emp?tab=repositories))*
 
 ---
 
-### 📊 Estatísticas do GitHub
+## 📊 Estatísticas do GitHub
 
 <div align="center">
 
@@ -39,18 +71,20 @@ https://emanuelpinheiroportfo.netlify.app">
 
 ---
 
-### 📬 Contato
-
-📧 **Email:** [devemanuelpinheiro@gmail.com](mailto:devemanuelpinheiro@gmail.com)  
-💼 **LinkedIn:** [linkedin.com/in/emppinheiro](https://www.linkedin.com/in/emppinheiro/)  
-🌐 **Portfólio:** [emanuelpinheiroportfo.netlify.app/](https://emanuelpinheiroportfo.netlify.app/)
----
-
-### ⚡ Curiosidades
+## ⚡ Curiosidades
 
 - 🎨 Apaixonado por **UI/UX e design responsivo**
 - 🧩 Crio experiências **imersivas e dinâmicas** em web
 - 🧠 Acredito que **“aprender fazendo”** é o melhor caminho para crescer
+- 📈 Sempre em busca de novos desafios e contribuições de código aberto
+
+---
+
+## 📬 Contato
+
+📧 **Email:** [devemanuelpinheiro@gmail.com](mailto:devemanuelpinheiro@gmail.com)  
+💼 **LinkedIn:** [linkedin.com/in/emppinheiro](https://www.linkedin.com/in/emppinheiro/)  
+🌐 **Portfólio:** [emanuelpinheiroportfo.netlify.app/](https://emanuelpinheiroportfo.netlify.app/)
 
 ---
 
