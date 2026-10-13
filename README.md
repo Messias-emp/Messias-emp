@@ -13,7 +13,7 @@
   </a>
   <a href="
 https://emanuelpinheiroportfo.netlify.app">
-    <img src="https://img.shields.io/badge/Portfólio-emanuelpinheiro.netlify.app-green?style=flat-square" alt="Portfólio">
+    <img src="https://img.shields.io/badge/Portfólio-emanuelpinheiroportfo.netlify.app-green?style=flat-square" alt="Portfólio">
   </a>
 </p>
 
