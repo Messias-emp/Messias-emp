@@ -21,7 +21,7 @@
 
 ## 🚀 Sobre Mim
 
-Desenvolvedor full-stack apaixonado por criar soluções digitais modernas, escaláveis e orientadas a resultados. Tenho foco em **boas práticas de código, arquitetura limpa e experiência do usuário**, sempre buscando entregar software de alta qualidade que resolva problemas reais.
+Desenvolvedor front-end e Back-end apaixonado por criar soluções digitais modernas, escaláveis e orientadas a resultados. Tenho foco em **boas práticas de código, arquitetura limpa e experiência do usuário**, sempre buscando entregar software de alta qualidade que resolva problemas reais.
 
 ---
 
