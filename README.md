@@ -75,7 +75,6 @@ Desenvolvedor front-end e Back-end apaixonado por criar soluções digitais mode
 
 - 🎨 Apaixonado por **UI/UX e design responsivo**
 - 🧩 Crio experiências **imersivas e dinâmicas** em web
-- 🧠 Acredito que **“aprender fazendo”** é o melhor caminho para crescer
 - 📈 Sempre em busca de novos desafios e contribuições de código aberto
 
 ---
@@ -88,7 +87,7 @@ Desenvolvedor front-end e Back-end apaixonado por criar soluções digitais mode
 
 ---
 
-<p align="center">✨ Obrigado por visitar meu perfil! Fique à vontade para se conectar comigo. ✨</p>
+<p align="center"></p
 
 
 
