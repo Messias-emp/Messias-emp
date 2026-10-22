@@ -1,4 +1,4 @@
-# 👋 Emanuel Pinheiro
+# Emanuel Pinheiro
 
 <h3 align="center">💻 Desenvolvedor Front-End / Back-End</h3>
 
