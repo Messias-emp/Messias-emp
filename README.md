@@ -29,12 +29,14 @@ Desenvolvedor front-end e Back-end apaixonado por criar soluções digitais mode
 
 ### Front-End
 - **Angular** (Standalone Components, Signals, RxJS)
+- **React.js**
 - **TypeScript**
+- **Javascript**
 - **HTML5 / CSS3 / SCSS (Sass)**
-- **Tailwind CSS / Material Design (Angular Material)**
+
 
 ### Back-End
-- **Java 17**
+- **Java **
 - **Spring Boot 3**
 - **Spring Security 6** (JWT, autenticação stateless)
 - **Spring Data JPA / Hibernate**
